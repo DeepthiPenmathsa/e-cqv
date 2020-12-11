@@ -1,7 +1,9 @@
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <h1>Starting React Application </h1>
     </div>
   );
